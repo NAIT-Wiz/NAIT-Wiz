@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NAIT-Wiz
-- 👀 I’m interested in  Codsing
+- 👀 I’m interested in  Coding
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  admin@naitconsults.uk
